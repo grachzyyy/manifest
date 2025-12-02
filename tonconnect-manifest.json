@@ -1,9 +1,10 @@
 {
-  "url": "https://fragmen.com",
-  "name": "Fragmen",
+  "url": "https://fragme.com",
+  "name": "Fragme",
   "iconUrl": "https://fragment.com/img/fragment_tonconnect_icon.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
   "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
+
 
 
